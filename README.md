@@ -1,4 +1,4 @@
-# Aprendendo a usar linguagem Markdown
+# Aprendendo a usar linguagem Markdown ✨
 *** 
 ## Guia rápido
 
@@ -65,8 +65,7 @@ __*negrito com itálico*__ ou **_negrito com itálico_**
   else:
       print ( f'O valor{num} é ÍMPAR' )
   ```
-  
-  #
+
   
  
   
